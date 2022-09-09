@@ -1,3 +1,8 @@
 TEXTO.TXT
 HOLA COMO VAS?
 R:TODO BIEN
+seguimos con la modficacion
+1
+2
+2
+3
